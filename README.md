@@ -1,30 +1,38 @@
-<h2>📊 MBA Student – Business Analytics</h2>
-<h4>🔍 Data Analysis | Machine Learning | AI</h4>
-
-<p>
-  I specialize in applying analytical and machine learning techniques to solve 
-  real business problems using <strong>Python</strong>, <strong>ML models</strong>, 
-  and <strong>Optimization methods</strong>.
+<p align="left">
+  I work in the field of <strong>Business Analytics</strong>, focusing on 
+  <strong>Data Analysis, Machine Learning, AI, and Business Intelligence solutions</strong>. 
+  My work involves applying analytical methods, developing ML-based workflows, and building 
+  dashboards to support data-driven decision-making.
 </p>
 
-<p>
-  Skilled in <strong>Power BI</strong>, <strong>Tableau</strong>, 
-  <strong>Advanced Excel</strong>, and modern data visualization tools.  
-  I focus on converting raw data into meaningful insights that support 
-  strategic decision-making.
+<p align="left">
+  Proficient with <strong>Python</strong>, <strong>SQL</strong>, <strong>Tableau</strong>, 
+  <strong>Power BI</strong>, <strong>Advanced Excel</strong>, and a range of tools used in 
+  analytics, automation, data processing, and reporting. I also work with 
+  <strong>HTML, CSS, JavaScript, MySQL, Linux, Bootstrap, PHP</strong>, and other technologies 
+  included in the toolset below.
+</p>
+
+<p align="left">
+  Current focus areas include <strong>Machine Learning</strong>, 
+  <strong>Optimization techniques</strong>, <strong>Data Visualization</strong>, and 
+  end-to-end analytical workflows to enhance operational and strategic outcomes.
 </p>
 
 <hr>
 
-<h3>✅ Interested in collaborating?</h3>
-<p>
-  I'm open to opportunities in <strong>data analytics</strong>, 
-  <strong>machine learning</strong>, <strong>dashboard development</strong>, 
-  and <strong>business intelligence</strong> projects.
+<h3 align="left">📬 Connect With Me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/arti-takle" target="_blank">🔗 LinkedIn</a><br>
+  <a href="mailto:artitakle7762@gmail.com">📧 Email</a>
 </p>
 
-<p>
-  📬 <strong>Let's connect:</strong><br>
-  <a href="https://www.linkedin.com/in/arti-takle" target="_blank">🔗 LinkedIn</a><br>
-  <a href="mailto:2025.artit@isu.ac.in">📧 Email Me</a>
+<hr>
+
+<h3 align="left">✅ Open For</h3>
+<p align="left">
+  • Analytics & ML projects <br>
+  • Dashboard development (Power BI / Tableau) <br>
+  • Data processing, automation & insights generation <br>
+  • Collaborative work related to data, AI, and business problem-solving
 </p>
