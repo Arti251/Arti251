@@ -1,16 +1,30 @@
-## Hi there 👋
+<h2>📊 MBA Student – Business Analytics</h2>
+<h4>🔍 Data Analysis | Machine Learning | AI</h4>
 
-<!--
-**Arti251/Arti251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I specialize in applying analytical and machine learning techniques to solve 
+  real business problems using <strong>Python</strong>, <strong>ML models</strong>, 
+  and <strong>Optimization methods</strong>.
+</p>
 
-Here are some ideas to get you started:
+<p>
+  Skilled in <strong>Power BI</strong>, <strong>Tableau</strong>, 
+  <strong>Advanced Excel</strong>, and modern data visualization tools.  
+  I focus on converting raw data into meaningful insights that support 
+  strategic decision-making.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h3>✅ Interested in collaborating?</h3>
+<p>
+  I'm open to opportunities in <strong>data analytics</strong>, 
+  <strong>machine learning</strong>, <strong>dashboard development</strong>, 
+  and <strong>business intelligence</strong> projects.
+</p>
+
+<p>
+  📬 <strong>Let's connect:</strong><br>
+  <a href="www.linkedin.com/in/arti-takle" target="_blank">🔗 LinkedIn</a><br>
+  <a href="mailto:2025.artit@isu.ac.in">📧 Email Me</a>
+</p>
