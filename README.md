@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Arti Takle</h1>
-<h3 align="center">Empowering Business Decisions Through Analytics</h3>
+<h1 align="left">🔹 Arti Takle</h1>
+<h3 align="left"><code>Empowering Business Decisions Through Analytics</code></h3>
 
 ---
 
