@@ -25,7 +25,6 @@
 
 <p>
   📬 <strong>Let's connect:</strong><br>
-  <a href="https:www.linkedin.com/in/arti-takle" target="_blank">🔗 LinkedIn</a><br>
-  <a href="mailto:YOUR_EMAIL@gmail.com">📧 Email Me</a>
+  <a href="https://www.linkedin.com/in/arti-takle" target="_blank">🔗 LinkedIn</a><br>
+  <a href="mailto:2025.artit@isu.ac.in">📧 Email Me</a>
 </p>
-
